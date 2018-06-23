@@ -6,7 +6,7 @@ email: xiongli911@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, Echo, Echo, .Net, .NetCore, C#"
 url: "http://echosmile.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/EchoSmile/echosmile.github.io.git" # you code repository
 
 # Sidebar settings
