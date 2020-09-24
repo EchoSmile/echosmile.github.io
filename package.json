@@ -5,7 +5,7 @@
     "version": "1.7.0",
     "homepage": "https://echosmile.github.io/",
     "repository": {
-        "type": "git",
+        "type": "git", 
         "url": "https://github.com/pikaq91/echosmile.github.io.git"
     },
     "bugs": "https://github.com/qiubaiying/qiubaiying.github.io/issues",
