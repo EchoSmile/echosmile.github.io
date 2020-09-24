@@ -3,10 +3,10 @@
     "title": "Echo Blog",
     "author": "BY <xiongli911@gmail.com>",
     "version": "1.7.0",
-    "homepage": "https://echosmile.github.io/",
+    "homepage": "https://pikaq91.github.io/",
     "repository": {
         "type": "git", 
-        "url": "https://github.com/pikaq91/echosmile.github.io.git"
+        "url": "https://github.com/pikaq91/pikaq91.github.io.git"
     },
     "bugs": "https://github.com/qiubaiying/qiubaiying.github.io/issues",
     "devDependencies": {
