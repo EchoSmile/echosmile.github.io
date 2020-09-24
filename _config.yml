@@ -65,7 +65,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 111c27d9e2f92dc7a05a                            #生成的clientID
   clientSecret: d76b693ac95508bee976d07f92b9f7f51622a468    #生成的clientSecret
-  repo: echosmile.github.io    #仓库名称
+  repo: pikaq91.github.io    #仓库名称
   owner: pikaq91    #github用户名
   admin: pikaq91
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
