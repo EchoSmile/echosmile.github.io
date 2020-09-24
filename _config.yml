@@ -63,8 +63,8 @@ disqus_username: EchoSmiled
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 111c27d9e2f92dc7a05a                            #生成的clientID
-  clientSecret: d76b693ac95508bee976d07f92b9f7f51622a468    #生成的clientSecret
+  clientID: 28e43e4df7fc0a7e96ca                            #生成的clientID
+  clientSecret: 363eced3bc9e3ddc47d109ad1c6065cb7330f678    #生成的clientSecret
   repo: pikaq91.github.io    #仓库名称
   owner: pikaq91    #github用户名
   admin: pikaq91
