@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 627409210@qq.com
 description: "Every failure is leading towards success."
 keyword: "皮卡丘, Blog, Echo, .Net, .NetCore, C#"
-url: "http://echosmile.github.io"          # your host, for absolute URL
+url: "http://pikaq91.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/pikaq91/echosmile.github.io.git" # you code repository
+github_repo: "https://github.com/pikaq91/pikaq91.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
