@@ -2,12 +2,12 @@
 title: Echo Blog 
 SEOTitle: Echo Blog 
 header-img: img/post-bg-desk.jpg
-email: xiongli911@gmail.com
+email: 627409210@qq.com
 description: "Every failure is leading towards success."
-keyword: "熊丽, Blog, Echo, .Net, .NetCore, C#"
+keyword: "皮卡丘, Blog, Echo, .Net, .NetCore, C#"
 url: "http://echosmile.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/EchoSmile/echosmile.github.io.git" # you code repository
+github_repo: "https://github.com/pikaq91/echosmile.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about_echo.jpg      # use absolute URL, seeing it's used in
 RSS: false
 weibo_username:     xinyuziyin
 # zhihu_username:     qiubaiying
-github_username:    EchoSmile
+github_username:    pikaq91
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -66,8 +66,8 @@ gitalk:
   clientID: 111c27d9e2f92dc7a05a                            #生成的clientID
   clientSecret: d76b693ac95508bee976d07f92b9f7f51622a468    #生成的clientSecret
   repo: echosmile.github.io    #仓库名称
-  owner: echosmile    #github用户名
-  admin: echosmile
+  owner: pikaq91    #github用户名
+  admin: pikaq91
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
