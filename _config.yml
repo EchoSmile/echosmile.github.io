@@ -63,8 +63,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 28e43e4df7fc0a7e96ca                            #生成的clientID
-  clientSecret: 363eced3bc9e3ddc47d109ad1c6065cb7330f678    #生成的clientSecret
+  clientID: ef0a0959be179fcc7ff0                            #生成的clientID
+  clientSecret: d3940b528b143782d3d57b260bf72a3217e2244d    #生成的clientSecret
   repo: pikaq91.github.io    #仓库名称
   owner: pikaq91    #github用户名
   admin: pikaq91
